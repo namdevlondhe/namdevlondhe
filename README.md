@@ -35,7 +35,7 @@ Before automotive, I shipped 100+ Android apps across OTT, education, retail and
 ## 🛠️ Tooling
 | Project | What it shows |
 |---|---|
-| aspice-trace *(coming soon)* | Requirement → code → test traceability matrix generator |
+| [aspice-trace](https://github.com/namdevlondhe/aspice-trace) | Requirement → code → test traceability matrix and gap report, with CI quality gates (ASPICE SWE.1–SWE.6) |
 | xts-report-analyzer *(coming soon)* | CTS/VTS result dashboard |
 
 ## 📫 Contact
