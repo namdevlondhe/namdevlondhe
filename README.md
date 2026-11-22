@@ -18,7 +18,7 @@ Before automotive, I shipped 100+ Android apps across OTT, education, retail and
 | Project | What it shows |
 |---|---|
 | [aaos-hvac-compose](https://github.com/namdevlondhe/aaos-hvac-compose) | Climate app on VHAL with `CarPropertyManager`, a tested FSM, and diagrams generated from code |
-| aaos-hmi-components *(coming soon)* | Compose component kit for in-vehicle UIs: tokens, day/night theme, rotary focus, UX restrictions |
+| [aaos-hmi-components](https://github.com/namdevlondhe/aaos-hmi-components) | Compose component kit for in-vehicle UIs: tokens, day/night theme, rotary focus, UX restrictions |
 | hmi-mode-manager *(coming soon)* | Kotlin state-machine DSL with PlantUML export |
 | aaos-car-media *(coming soon)* | Media3 app for Android Auto and AAOS |
 | aosp-custom-vhal *(coming soon)* | Vendor VHAL property from the HAL up to an app |
