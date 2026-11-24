@@ -22,7 +22,7 @@ Before automotive, I shipped 100+ Android apps across OTT, education, retail and
 | hmi-mode-manager *(coming soon)* | Kotlin state-machine DSL with PlantUML export |
 | aaos-car-media *(coming soon)* | Media3 app for Android Auto and AAOS |
 | aosp-custom-vhal *(coming soon)* | Vendor VHAL property from the HAL up to an app |
-| aaos-rotary-input *(coming soon)* | Steering wheel keys and rotary controller navigation |
+| [aaos-rotary-input](https://github.com/namdevlondhe/aaos-rotary-input) | Steering wheel keys and rotary controller navigation |
 
 ## 🏗️ Architecture and mobile
 | Project | What it shows |
