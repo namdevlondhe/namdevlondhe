@@ -28,7 +28,7 @@ Before automotive, I shipped 100+ Android apps across OTT, education, retail and
 | Project | What it shows |
 |---|---|
 | [android-clean-arch-template](https://github.com/namdevlondhe/android-clean-arch-template) | Multi-module Clean Architecture, convention plugins, offline-first, CI |
-| ott-player-sample *(coming soon)* | HLS/DASH/Widevine on phone and TV |
+| [ott-player-sample](https://github.com/namdevlondhe/ott-player-sample) | HLS/DASH/Widevine on phone and TV |
 | play-billing-oauth-sample *(coming soon)* | Play Billing subscriptions + Google/Microsoft/Dropbox sign-in |
 | rn-native-bridge *(coming soon)* | React Native Turbo Module that wraps native hardware |
 
